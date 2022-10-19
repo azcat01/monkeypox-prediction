@@ -1,8 +1,8 @@
-# Monkey-Prediction
+# Monkeypox-Prediction
 
 ## _Metode Penelitian - UPNVJ (2022/2023)_
 
-***Monkey-Prediction*** is a comparative-base research on data classification 
+***Monkeypox-Prediction*** is a comparative-base research on data classification 
 algorithm (K-NN, Naive Bayes, and Decision Tree) to compare the accuration
 rate for each algorithm on a syntethic monkeypox dataset. This research was done
 in order to fulfill Metode Penelitian assignment.
