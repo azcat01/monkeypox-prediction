@@ -2,11 +2,7 @@
 
 ## _Metode Penelitian - UPNVJ (2022/2023)_
 
-***Monkeypox-Prediction*** is a comparative-base research on data classification 
-algorithm (K-NN, Naive Bayes, and Decision Tree) to compare the accuration
-rate for each algorithm on a syntethic monkeypox dataset. The sole purpose of this
-research is to find what model from what algorithm is best for the given dataset.
-This research was done in order to fulfill Metode Penelitian's KB assignment.
+***Monkeypox-Prediction*** is a comparative-based research on data classification algorithms (K-NN, Naive Bayes, and Decision Tree) to compare the accuracy rate for each algorithm on a syntethic monkeypox dataset. The sole purpose of this research is to find which model, from which algorithm, is best for the given dataset. This research was done in order to fulfill Metode Penelitian's KB assignment.
 
 ## Dataset
 
